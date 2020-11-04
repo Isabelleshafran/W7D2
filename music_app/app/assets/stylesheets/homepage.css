@@ -1,0 +1,46 @@
+.homepage-welcome {
+    display: flex;
+    font-size: 70px;
+    margin-bottom: 30px;
+    color: #FDDB61;
+    font-family: 'Raleway', sans-serif;
+    justify-content: center;
+}
+
+.homepage-signin {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: #39BAAC;
+    margin-bottom: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.homepage-form {
+    display: flex;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+.homepage-body {
+    background-color: #111;
+}
+
+.homepage-button1 {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.homepage-button2 {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+} 
